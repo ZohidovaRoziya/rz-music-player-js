@@ -116,7 +116,7 @@ img {
 .music-album-img {
   width: 200px;
   height: 200px;
-  /* border-radius: 50%; */
+  border-radius: 50%;
   border: 8px solid #00000083;
   box-shadow: 0 0 10px 5px rgba(238, 238, 238, 0.438);
   object-fit: cover;
